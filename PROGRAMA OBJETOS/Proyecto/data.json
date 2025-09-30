@@ -1,0 +1,5 @@
+[
+  { "nombre": "Ana", "edad": 20, "calificaciones": [90, 85, 88, 92] },
+  { "nombre": "Luis", "edad": 22, "calificaciones": [70, 75, 80, 78] },
+  { "nombre": "María", "edad": 19, "calificaciones": [95, 93, 97, 99] }
+]
